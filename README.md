@@ -1,5 +1,20 @@
 # git-alias
 
+>copy and past on .gitconfig file in windows {user} folder
+
+
 ```
-copy and past on .gitconfig file in windows {user} folder
-```
+[alias]
+	hide = update-index --assume-unchanged
+	unhide = update-index --no-assume-unchanged
+	co = commit
+	st = status
+	ch = checkout
+	di = diff --color-words
+	br = branch
+	cob = checkout -b
+	cm = !git add -A && git commit -m
+	fc = !git fetch && git checkout
+	save = !git add -A && git commit -m 'SAVEPOINT'
+	wip = commit -am "WIP"
+  ```
