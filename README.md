@@ -1,6 +1,7 @@
 # git-alias
 
->copy and past on .gitconfig file in windows {user} folder
+### For Windows
+>copy these lines below and past in .gitconfig file on `C:\Users\{user}`.
 
 
 ```
