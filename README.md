@@ -12,7 +12,7 @@
 	ch = checkout
 	di = diff --color-words
 	br = branch
-    ph = push
+    	ph = push
 	pl = pull
 	cob = checkout -b
 	cm = !git add -A && git commit -m
