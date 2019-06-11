@@ -3,6 +3,9 @@
 ### For Windows
 >copy these lines below and past in .gitconfig file on `C:\Users\{user}`.
 
+### For MacOs
+>copy these lines below and past in .gitconfig file on `~`.
+
 
 ```
 [alias]
