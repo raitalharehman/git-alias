@@ -23,4 +23,5 @@
 	fc = !git fetch && git checkout
 	save = !git add -A && git commit -m 'SAVEPOINT'
 	wip = commit -am "WIP"
+	fire = !git save && git ph  
   ```
